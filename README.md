@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![TITULO1](https://img.shields.io/badge/TITULO2-TITULO3-COR.svg)]
+
 <!--
 **vitorlavor/vitorlavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
