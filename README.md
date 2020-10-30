@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![TITULO1](https://img.shields.io/badge/TITULO2-TITULO3-COR.svg)
-![author](https://img.shields.io/badge/Author-Vitor Lavor-purple.svg)
+![author](https://img.shields.io/badge/Author-VitorLavor-purple.svg)
 
 
 <!--
