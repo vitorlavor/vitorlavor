@@ -1,20 +1,24 @@
-### Hi there 👋
+![banner](https://github.com/vitorlavor/Projeto/blob/main/banner_portfolio.jpg)
 
-![TITULO1](https://img.shields.io/badge/TITULO2-TITULO3-COR.svg)
-![author](https://img.shields.io/badge/Author-VitorLavor-purple.svg)
+### Hi, there 👋
+
+My name is Vitor Lavor, I am 30 years old and I am a PhD student of Chemical Engineering at Escola Politécnica of Universidade de São Paulo (USP) in Brazil. My thesis envolves Machine Learning thecniques and Health Data and I am completely passionate about data science.
+
+## 👨‍💻 🔨Languages and Tools:
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+
+## 📫 How to reach me: 
+
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/vitorlavor)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitorlavor/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vitorlavor)
 
 
-<!--
-**vitorlavor/vitorlavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+![Author](https://img.shields.io/badge/Author-Vitor-purple.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
