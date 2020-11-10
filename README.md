@@ -2,7 +2,7 @@
 
 ### Hi, there 👋
 
-My name is Vitor Lavor, I am 30 years old and I am a PhD student of Chemical Engineering at Escola Politécnica of Universidade de São Paulo (USP) in Brazil. My thesis envolves Machine Learning thecniques and Health Data and I am completely passionate about data science.
+My name is Vitor Lavor,  I am a Ph.D. student of Chemical Engineering at Escola Politécnica of Universidade de São Paulo (USP) in Brazil. My thesis involves Machine Learning techniques and Health Data and I am completely passionate about data science.
 
 ## 👨‍💻 🔨Languages and Tools:
 
