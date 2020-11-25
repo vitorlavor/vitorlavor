@@ -1,4 +1,4 @@
-![banner](https://github.com/vitorlavor/Projeto/blob/main/banner_portfolio.jpg)
+![banner](https://github.com/vitorlavor/vitorlavor/blob/main/banner_portfolio.jpg)
 
 ### Hi, there 👋
 
