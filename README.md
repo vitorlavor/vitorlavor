@@ -2,7 +2,7 @@
 
 ### Hi, there 👋
 
-My name is Vitor Lavor,  I am a Ph.D. student of Chemical Engineering at Escola Politécnica of Universidade de São Paulo (USP) in Brazil. My thesis involves Machine Learning techniques and Health Data and I am completely passionate about data science.
+My name is Vitor Lavor,  I am a Ph.D. student in Energy and Environmental Engineering at University of Reading - UK.
 
 ## 👨‍💻 🔨Languages and Tools:
 
